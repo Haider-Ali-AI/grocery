@@ -62,4 +62,4 @@ if uploaded_file:
     else:
         st.warning("No rules found with current thresholds. Try adjusting the parameters.")
 else:
-    st.info("👈 Please upload the 'Groceries_dataset.csv' file to begin."
+    st.info("👈 Please upload the 'Groceries_dataset.csv' file to begin.")
